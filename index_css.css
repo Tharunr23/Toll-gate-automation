@@ -1,0 +1,144 @@
+.logo .navbar-brand
+      {
+        height:initial;
+      }
+
+      a.navbar-brand
+      {
+      	
+      }
+
+      .three{
+			font-family: 'Merienda', cursive;
+		}
+
+		
+		.one
+		{
+			background-color:#ECF0F1;
+		
+		}
+
+/*For navbar Contents*/
+	@media screen and  (max-width: 768px) {
+      .ex1{
+        font-size: 20px;
+      }
+      }
+      @media screen and (min-width:768px ) and  (max-width: 992px) {
+        .ex1{
+        font-size: 10px;
+      }
+      }
+      @media screen and (min-width:992px ) and (max-width: 1200px) {
+        .ex1{
+        font-size: 14px;
+      }
+      
+      }
+      @media screen and (min-width:1200px )  {
+        .ex1{
+        font-size: 18px;
+      }
+    }
+/*For navbar Header*/
+    	@media screen and  (max-width: 768px) {
+      .ex2{
+        font-size: 20px;
+        padding-top: 30px;
+      }
+      }
+      @media screen and (min-width:768px ) and  (max-width: 992px) {
+        .ex2{
+        font-size: 30px;
+        padding-top: 50px;
+      }
+      }
+      @media screen and (min-width:992px ) and (max-width: 1200px) {
+        .ex2{
+        font-size: 45px;
+        padding-top: 50px;
+      }
+      
+      }
+      @media screen and (min-width:1200px )  {
+        .ex2{
+        font-size: 50px;
+        padding-top: 50px;
+      }
+    }
+    /*For SVCE and Nss font*/
+    	@media screen and  (max-width: 768px) {
+      .ex3{
+        font-size: 20px;
+      }
+      }
+      @media screen and (min-width:768px ) and  (max-width: 992px) {
+        .ex3{
+        font-size: 18px;
+      }
+      }
+      @media screen and (min-width:992px ) and (max-width: 1200px) {
+        .ex3{
+        font-size: 20px;
+      }
+      
+      }
+      @media screen and (min-width:1200px )  {
+        .ex3{
+        font-size: 22px;
+      }
+    }
+
+    /*nss not me but u*/
+    	@media screen and  (max-width: 768px) {
+      .ex4{
+        font-size: 20px;
+      }
+      }
+      @media screen and (min-width:768px ) and  (max-width: 992px) {
+        .ex4{
+        font-size: 13px;
+      }
+      }
+      @media screen and (min-width:992px ) and (max-width: 1200px) {
+        .ex4{
+        font-size: 18px;
+      }
+      
+      }
+      @media screen and (min-width:1200px )  {
+        .ex4{
+        font-size: 24px;
+      }
+    }
+/*For images*/
+        	@media screen and  (max-width: 768px) {
+      .i1{
+        width:70px;height:40px;
+      }
+      }
+      @media screen and (min-width:768px ) and  (max-width: 992px) {
+        .i1{
+        width:120px;height:50px;
+      }
+      }
+      @media screen and (min-width:992px ) and (max-width: 1200px) {
+        .i1{
+        width:140px;height:55px;
+      }
+      
+      }
+      @media screen and (min-width:1200px )  {
+        .i1{
+        width: 160px;height:60px;
+ 
+      }
+    }
+
+#myVideo {
+  
+  min-width: 70%; 
+  min-height: 70%;
+}
+
